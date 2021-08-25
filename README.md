@@ -1,4 +1,4 @@
-- 👋 Hi, I’m iffy @xortox
+- 👋 Hi, I’m xortox
 - 👀 I’m interested in game development
 - 💞️ I’m looking to collaborate on game projects
 - 📫 Email me at iffy@xortox.com for any queries
